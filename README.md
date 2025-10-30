@@ -31,9 +31,9 @@ I love finding insights in data and turning numbers into meaningful stories 📊
       <td><a href="https://drive.google.com/drive/folders/1PvOiXSFWMahj8TGmXF6qC3UAcMB0vtcg?usp=sharing">View</a></td>
     </tr>
     <tr>
-      <td><b>Data Cleaning Automation</b></td>
-      <td>Python scripts for automating Excel data cleaning</td>
-      <td><a href="#">View</a></td>
+      <td><b>Superstore Sales</b></td>
+      <td>Interactive Excel dashboard analyzing Superstore Data</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1_ggv4O6zZvHORI51Ost8kfGlkTo2UtJ-/edit?usp=sharing&ouid=115376780751870249883&rtpof=true&sd=true">View</a></td>
     </tr>
     <tr>
       <td><b>Customer Segmentation</b></td>
