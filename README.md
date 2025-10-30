@@ -26,9 +26,9 @@ I love finding insights in data and turning numbers into meaningful stories 📊
   </thead>
   <tbody>
     <tr>
-      <td><b>Sales Dashboard</b></td>
-      <td>Interactive Power BI dashboard analyzing sales performance</td>
-      <td><a href="#">View</a></td>
+      <td><b>Hr Dashboard</b></td>
+      <td>Interactive Power BI dashboard analyzing Employee Data </td>
+      <td><a href="https://drive.google.com/drive/folders/1PvOiXSFWMahj8TGmXF6qC3UAcMB0vtcg?usp=sharing">View</a></td>
     </tr>
     <tr>
       <td><b>Data Cleaning Automation</b></td>
