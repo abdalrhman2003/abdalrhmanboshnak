@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Abdalrhman Boshnak</b>, a <b>Data Analyst</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Egypt</b>.  
+<p>Welcome to my page! </br> I'm <b>Abdalrhman Boshnak</b>, a <b>Data Analyst</b> from <b>Egypt</b>.  
 I love finding insights in data and turning numbers into meaningful stories 📊.</p>
 
 <h3>🧠 Things I work with</h3>
@@ -51,9 +51,9 @@ I love finding insights in data and turning numbers into meaningful stories 📊
 
 <h3>🌍 Where to find me</h3>
 <p>
-  <a href="https://github.com/AbdalrhmanBoshnak" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdalrhmanboshnak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="[https://github.com/AbdalrhmanBoshnak](https://github.com/abdalrhman2003)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/abdalrhmanboshnak](https://www.linkedin.com/in/abdalrhman-boshnak-317513237/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.kaggle.com/](https://www.kaggle.com/abdalrhmanboshnak)" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ------------
