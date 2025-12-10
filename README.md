@@ -35,11 +35,7 @@ I love finding insights in data and turning numbers into meaningful stories 📊
       <td>Interactive Excel dashboard analyzing Superstore Data</td>
       <td><a href="https://docs.google.com/spreadsheets/d/1_ggv4O6zZvHORI51Ost8kfGlkTo2UtJ-/edit?usp=sharing&ouid=115376780751870249883&rtpof=true&sd=true">View</a></td>
     </tr>
-    <tr>
-      <td><b>Customer Segmentation</b></td>
-      <td>Cluster analysis for identifying customer groups</td>
-      <td><a href="#">View</a></td>
-    </tr>
+    
   </tbody>
 </table>
 
